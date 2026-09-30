@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dee Pink 2",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-024-8de86d890779309c9a66423c64daa480.svg"
+      ]
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(255, 224, 240)",
+      "toolbar_text": "rgb(149, 31, 87)",
+      "frame": "rgb(255, 172, 211)",
+      "tab_background_text": "rgb(151, 78, 112)",
+      "toolbar_field": "rgb(228, 183, 207)",
+      "toolbar_field_text": "rgb(89, 24, 54)",
+      "tab_line": "rgb(200, 0, 92)",
+      "popup": "rgb(255, 224, 240)",
+      "popup_text": "rgb(200, 0, 92)",
+      "ntp_background": "rgb(42, 0, 20)",
+      "tab_loading": "rgb(200, 0, 92)",
+      "toolbar_field_highlight": "#C8005C",
+      "toolbar_field_highlight_text": "#FFFFFF"
+    }
+  }
+}
