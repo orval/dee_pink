@@ -33,6 +33,7 @@
       "popup": "rgb(115, 21, 69)",
       "popup_text": "rgb(255, 159, 203)",
       "ntp_background": "rgb(42, 0, 20)",
+      "toolbar_field_highlight": "rgb(255, 123, 184)",
       "tab_loading": "rgb(250, 33, 134)"
     }
   }
