@@ -23,19 +23,17 @@
       ]
     },
     "colors": {
-      "toolbar": "rgb(255, 224, 240)",
-      "toolbar_text": "rgb(149, 31, 87)",
-      "frame": "rgb(255, 172, 211)",
-      "tab_background_text": "rgb(151, 78, 112)",
-      "toolbar_field": "rgb(228, 183, 207)",
-      "toolbar_field_text": "rgb(89, 24, 54)",
-      "tab_line": "rgb(200, 0, 92)",
-      "popup": "rgb(255, 224, 240)",
-      "popup_text": "rgb(200, 0, 92)",
+      "toolbar": "rgb(84, 34, 56)",
+      "toolbar_text": "rgb(255, 132, 186)",
+      "frame": "rgb(255, 188, 219)",
+      "tab_background_text": "rgb(91, 24, 58)",
+      "toolbar_field": "rgb(255, 187, 222)",
+      "toolbar_field_text": "rgb(129, 28, 74)",
+      "tab_line": "rgb(250, 33, 134)",
+      "popup": "rgb(115, 21, 69)",
+      "popup_text": "rgb(255, 159, 203)",
       "ntp_background": "rgb(42, 0, 20)",
-      "tab_loading": "rgb(200, 0, 92)",
-      "toolbar_field_highlight": "#C8005C",
-      "toolbar_field_highlight_text": "#FFFFFF"
+      "tab_loading": "rgb(250, 33, 134)"
     }
   }
 }
